@@ -1,0 +1,7 @@
+﻿company;role;description;required_skill;experience_level;department
+TechNova;AI Engineer;"""Develop and deploy AI systems using machine learning and NLP""";"""Python;Machine Learning;NLP;PyTorch;LLM""";Mid;AI
+TechNova;Data Scientist;"""Analyze data and build predictive models""";"""Python;SQL;Statistics;Machine Learning;Pandas""";Mid;Data
+TechNova;Backend Engineer;"""Build and maintain backend services and APIs""";"""Python;SQL;PostgreSQL;REST API;Docker""";Mid;Engineering
+TechNova;Admin;"""Manage administrative tasks, documentation, scheduling, and office operations""";"""Microsoft Office;Documentation;Communication;Data Entry;Organization""";Junior;Administration
+TechNova;HR;"""Manage recruitment, employee relations, HR administration, and talent development""";"""Recruitment;Communication;HRIS;Employee Relations;Microsoft Office""";Mid;Human Resource
+TechNova;Finance;"""Manage financial records, budgeting, reporting, and financial analysis""";"""Accounting;Financial Analysis;Excel;Budgeting;Financial Reporting""";Mid;Finance
